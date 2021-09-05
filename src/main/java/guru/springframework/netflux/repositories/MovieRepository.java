@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package guru.springframework.netflux.repositories;
 
-import guru.springframework.domain.Movie;
+import guru.springframework.netflux.domain.Movie;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 
 public interface MovieRepository extends ReactiveMongoRepository<Movie, String> {

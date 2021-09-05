@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.netflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
